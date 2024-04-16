@@ -3,8 +3,8 @@
 
 :root {
 	--fundo: #1E1E1E;		
-	--verde: #6FFF57;
-	--branco: #FFFFFF;
+	--roxo: #6FFF57;
+	--vermelho: #FFFFFF;
 	--botao-on: #3A375E;
 	--botao-off: rgba(58, 55, 94, 0.5);
 	--texto-fundo: rgba(58, 55, 94, 0.3);	/*definindo variáveis*/
